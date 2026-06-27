@@ -1,129 +1,143 @@
 <div align="center">
 
-# Salut, moi c'est Tall Hamadou
+```
+████████╗ █████╗ ██╗     ██╗
+╚══██╔══╝██╔══██╗██║     ██║
+   ██║   ███████║██║     ██║
+   ██║   ██╔══██║██║     ██║
+   ██║   ██║  ██║███████╗███████╗
+╚═╝  ╚═╝╚══════╝╚══════╝
+```
 
-### Ingénieur informatique à Ouagadougou
+# Tall Hamadou
 
-Je construis des **backends solides**, des **outils développeurs**, des **packages Laravel** et des **passerelles IA** pour transformer des idées complexes en systèmes simples à utiliser.
+**Ingénieur backend · Builder d'outils · Ouagadougou 🇧🇫**
 
-<br>
+*Je construis des systèmes qui restent lisibles quand le projet grandit.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-TALLHAMADOU-181717?style=for-the-badge&logo=github)](https://github.com/TALLHAMADOU)
-[![Website](https://img.shields.io/badge/Site-kuilinga.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kuilinga.tech/)
-[![Location](https://img.shields.io/badge/Burkina%20Faso-Ouagadougou-2E8B57?style=for-the-badge)](#)
+[![kuilinga.tech](https://img.shields.io/badge/🌐_kuilinga.tech-000000?style=flat-square)](https://kuilinga.tech/)
+[![GitHub](https://img.shields.io/badge/GitHub-TALLHAMADOU-181717?style=flat-square&logo=github)](https://github.com/TALLHAMADOU)
+[![Burkina Faso](https://img.shields.io/badge/📍_Ouagadougou-BF-EF2B2D?style=flat-square)](#)
 
 </div>
 
 ---
 
-## Ce qui me guide
+## Ce qui me motive
 
-Je ne cherche pas seulement à écrire du code qui marche.
+Je ne vise pas le code qui "fonctionne". Je vise celui qui donne envie de continuer à construire dessus.
 
-Je cherche à créer des outils qui donnent cette impression rare :  
-**"C'est clair. C'est propre. Je peux construire dessus."**
-
-Mon terrain de jeu est entre le backend, l'automatisation, la sécurité, l'IA appliquée aux développeurs et les architectures qui restent maintenables quand le projet grandit.
+Mon terrain : **backend**, **CLI tooling**, **sécurité**, **IA appliquée aux devs**, et les architectures qui tiennent la route à long terme. Pas de magie noire — juste des systèmes dont on comprend pourquoi ils sont faits comme ça.
 
 ---
 
-## Ce que je construis en ce moment
+## Ce que je construis
 
-### Outils développeurs
+### 🤖 IA & Systèmes
 
-Des CLI et frameworks pour aller plus vite sans sacrifier la structure.
+| Projet | Description | Stack |
+|---|---|---|
+| [**mcp-gateway**](https://github.com/TALLHAMADOU/mcp-gateway) | Passerelle FastAPI pour connecter des assistants IA à des outils via MCP/REST — auth, sandbox, Docker, tests inclus | `Python` `FastAPI` `Docker` |
+| [**AutoBick-Api**](https://github.com/TALLHAMADOU/AutoBick-Api) | API backend avec logique métier robuste | `PHP` `Laravel` |
 
-| Projet | Pourquoi c'est intéressant |
-|---|---|
-| [spring-boot-cli](https://github.com/TALLHAMADOU/spring-boot-cli) | Génère rapidement des projets et composants Spring Boot : entités, services, controllers, DTOs, tests. |
-| [goleaks](https://github.com/TALLHAMADOU/goleaks) | Scanner Go pour détecter les secrets sensibles dans le code, avec export JSON/SARIF et mode diff-only. |
-| [Afrivel](https://github.com/TALLHAMADOU/Afrivel) | Expérimentation d'un framework Rust inspiré de l'expérience Laravel, avec architecture modulaire et génération de code. |
+### 🛠️ Outils développeurs
 
-### Backend, IA et systèmes
+| Projet | Description | Stack |
+|---|---|---|
+| [**spring-boot-cli**](https://github.com/TALLHAMADOU/spring-boot-cli) | Génère des projets Spring Boot complets en secondes : entités, services, controllers, DTOs, tests | `Go` |
+| [**goleaks**](https://github.com/TALLHAMADOU/goleaks) | Scanner de secrets dans le code avec export JSON/SARIF et mode diff-only — pour les pipelines CI | `Go` |
+| [**Afrivel**](https://github.com/TALLHAMADOU/Afrivel) | Expérimentation d'un framework web Rust inspiré de Laravel : architecture modulaire, génération de code | `Rust` |
 
-Des projets où la sécurité, la traçabilité et l'architecture comptent vraiment.
+### 💰 Finance & Laravel
 
-| Projet | Ce qu'il montre |
-|---|---|
-| [mcp-gateway](https://github.com/TALLHAMADOU/mcp-gateway) | Passerelle FastAPI pour connecter des assistants IA à des outils via MCP/REST, avec auth, sandbox, Docker et tests. |
-| [Fundry](https://github.com/TALLHAMADOU/Fundry) | Package Laravel pour portefeuilles virtuels, transactions, multi-devises, commissions, exports et sécurité financière. |
-| [AutoBick-Api](https://github.com/TALLHAMADOU/AutoBick-Api) | API backend orientée logique métier. |
+| Projet | Description | Stack |
+|---|---|---|
+| [**Fundry**](https://github.com/TALLHAMADOU/Fundry) | Package Laravel pour portefeuilles virtuels — transactions, multi-devises, commissions, exports, sécurité financière | `PHP` `Laravel` |
 
 ---
 
-## Stack que j'utilise
+## Stack
+
+```txt
+Langages      PHP · Python · Go · Rust · JavaScript
+Frameworks    Laravel · FastAPI · React
+Architecture  REST API · MCP · Clean Architecture · CLI tooling
+Sécurité      Auth · scan de secrets · validation · isolation sandbox
+DevOps        Docker · CI/CD · scripts · automatisation
+```
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-ce412b?style=flat-square&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
-```txt
-Backend      : Laravel, PHP, Python, FastAPI, Go, Rust
-Architecture : API REST, MCP, Clean Architecture, CLI tooling
-Sécurité     : Authentification, scan de secrets, validation, isolation
-DevOps       : Docker, CI, scripts, automatisation, packaging
-Frontend     : React, JavaScript
+---
+
+## Mes principes de build
+
+```
+✦ Comprendre le problème avant d'ajouter une feature
+✦ Séparer clairement les responsabilités
+✦ Automatiser ce qui se répète
+✦ Sécuriser les zones sensibles dès le départ
+✦ Documenter les décisions importantes (pas juste le code)
+✦ Garder une architecture lisible même quand le projet évolue
 ```
 
 ---
 
-## Ma signature technique
+## Stats
 
-J'aime les projets qui ont une vraie colonne vertébrale.
+<div align="center">
 
-Quand je construis, je fais attention à :
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TALLHAMADOU&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TALLHAMADOU&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-- comprendre le problème avant d'ajouter des fonctionnalités ;
-- séparer clairement les responsabilités ;
-- automatiser ce qui se répète ;
-- documenter les choix importants ;
-- sécuriser les zones sensibles ;
-- garder une architecture lisible même quand le projet évolue.
-
-Ce qui m'intéresse le plus : les outils qui rendent les développeurs plus rapides, les systèmes backend robustes, les plateformes SaaS, les produits fintech et les intégrations IA réellement utiles.
+</div>
 
 ---
 
-## Quelques portes d'entrée
+## Explorer par angle
 
-Tu peux explorer mon travail par angle :
+Tu sais ce qui t'intéresse ? Commence par là :
 
-- **IA et outils système** : [mcp-gateway](https://github.com/TALLHAMADOU/mcp-gateway)
-- **Laravel et finance** : [Fundry](https://github.com/TALLHAMADOU/Fundry)
-- **CLI et productivité Java** : [spring-boot-cli](https://github.com/TALLHAMADOU/spring-boot-cli)
-- **DevSecOps** : [goleaks](https://github.com/TALLHAMADOU/goleaks)
-- **Rust et frameworks web** : [Afrivel](https://github.com/TALLHAMADOU/Afrivel)
+- **Intégration IA** → [`mcp-gateway`](https://github.com/TALLHAMADOU/mcp-gateway)
+- **Sécurité & DevSecOps** → [`goleaks`](https://github.com/TALLHAMADOU/goleaks)
+- **Fintech Laravel** → [`Fundry`](https://github.com/TALLHAMADOU/Fundry)
+- **Productivité Java** → [`spring-boot-cli`](https://github.com/TALLHAMADOU/spring-boot-cli)
+- **Framework Rust** → [`Afrivel`](https://github.com/TALLHAMADOU/Afrivel)
 
 ---
 
 ## Ce que je veux construire
 
-Des produits qui ne se contentent pas d'exister sur GitHub.
+Des outils qui ne se contentent pas d'exister sur GitHub.
 
-Je veux construire des outils qui :
-
-- aident les développeurs à livrer plus vite ;
-- rendent les backends plus fiables ;
-- sécurisent les workflows sensibles ;
-- rapprochent l'IA des vrais besoins techniques ;
-- peuvent devenir des produits open source ou SaaS utiles.
+> Des outils qui aident les devs à livrer plus vite.  
+> Des backends plus fiables.  
+> Des workflows sécurisés.  
+> De l'IA qui répond à de vrais besoins techniques.  
+> Des produits open source ou SaaS qui durent.
 
 ---
 
 <div align="center">
 
-### Construire simple. Penser solide. Livrer utile.
+**Construire simple. Penser solide. Livrer utile.**
 
-Si tu veux voir comment je réfléchis, commence par mes projets.  
-Si tu veux voir où je vais, regarde les outils que je suis en train de construire.
+`backend` · `devtools` · `fintech` · `ai-infra` · `open source`
+
+---
+
+*Ouagadougou, Burkina Faso 🇧🇫 — disponible pour des projets sérieux*
 
 </div>
