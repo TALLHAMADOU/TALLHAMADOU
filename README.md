@@ -1,17 +1,17 @@
 <div align="center">
 
-```
+```txt
 ████████╗ █████╗ ██╗     ██╗
 ╚══██╔══╝██╔══██╗██║     ██║
    ██║   ███████║██║     ██║
    ██║   ██╔══██║██║     ██║
    ██║   ██║  ██║███████╗███████╗
-╚═╝  ╚═╝╚══════╝╚══════╝
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
 # Tall Hamadou
 
-**Ingénieur backend · Builder d'outils · Ouagadougou 🇧🇫**
+**Ingénieur backend · Builder d'outils · Ouagadougou 🇧🇫
 
 *Je construis des systèmes qui restent lisibles quand le projet grandit.*
 
@@ -25,34 +25,36 @@
 
 ## Ce qui me motive
 
-Je ne vise pas le code qui "fonctionne". Je vise celui qui donne envie de continuer à construire dessus.
+Je ne vise pas seulement le code qui "fonctionne". Je vise le code qui donne envie de continuer à construire dessus.
 
-Mon terrain : **backend**, **CLI tooling**, **sécurité**, **IA appliquée aux devs**, et les architectures qui tiennent la route à long terme. Pas de magie noire — juste des systèmes dont on comprend pourquoi ils sont faits comme ça.
+Mon terrain : **backend**, **CLI tooling**, **sécurité**, **IA appliquée aux devs**, et architectures qui tiennent la route à long terme. Pas de magie noire, juste des systèmes dont on comprend pourquoi ils sont faits comme ça.
+
+Ce que j'aime construire : des outils utiles, documentés, automatisables, et assez clairs pour qu'une autre personne puisse les reprendre sans repartir de zéro.
 
 ---
 
 ## Ce que je construis
 
-### 🤖 IA & Systèmes
+### 🤖 IA & systèmes
 
 | Projet | Description | Stack |
 |---|---|---|
-| [**mcp-gateway**](https://github.com/TALLHAMADOU/mcp-gateway) | Passerelle FastAPI pour connecter des assistants IA à des outils via MCP/REST — auth, sandbox, Docker, tests inclus | `Python` `FastAPI` `Docker` |
-| [**AutoBick-Api**](https://github.com/TALLHAMADOU/AutoBick-Api) | API backend avec logique métier robuste | `PHP` `Laravel` |
+| [**mcp-gateway**](https://github.com/TALLHAMADOU/mcp-gateway) | Passerelle FastAPI pour connecter des assistants IA à des outils via MCP/REST : auth, sandbox, Docker, tests et garde-fous. | `Python` `FastAPI` `Docker` |
+| [**AutoBick-Api**](https://github.com/TALLHAMADOU/AutoBick-Api) | API backend orientée logique métier. | `Backend` `API` |
 
-### 🛠️ Outils développeurs
+### 🛠 Outils développeurs
 
 | Projet | Description | Stack |
 |---|---|---|
-| [**spring-boot-cli**](https://github.com/TALLHAMADOU/spring-boot-cli) | Génère des projets Spring Boot complets en secondes : entités, services, controllers, DTOs, tests | `Go` |
-| [**goleaks**](https://github.com/TALLHAMADOU/goleaks) | Scanner de secrets dans le code avec export JSON/SARIF et mode diff-only — pour les pipelines CI | `Go` |
-| [**Afrivel**](https://github.com/TALLHAMADOU/Afrivel) | Expérimentation d'un framework web Rust inspiré de Laravel : architecture modulaire, génération de code | `Rust` |
+| [**spring-boot-cli**](https://github.com/TALLHAMADOU/spring-boot-cli) | Génère des projets Spring Boot complets en secondes : entités, services, controllers, DTOs, tests. | `Go` |
+| [**goleaks**](https://github.com/TALLHAMADOU/goleaks) | Scanner de secrets dans le code avec export JSON/SARIF et mode diff-only, pensé pour les pipelines CI. | `Go` `DevSecOps` |
+| [**Afrivel**](https://github.com/TALLHAMADOU/Afrivel) | Expérimentation d'un framework web Rust inspiré de Laravel : architecture modulaire, génération de code, Clean Architecture. | `Rust` |
 
 ### 💰 Finance & Laravel
 
 | Projet | Description | Stack |
 |---|---|---|
-| [**Fundry**](https://github.com/TALLHAMADOU/Fundry) | Package Laravel pour portefeuilles virtuels — transactions, multi-devises, commissions, exports, sécurité financière | `PHP` `Laravel` |
+| [**Fundry**](https://github.com/TALLHAMADOU/Fundry) | Package Laravel pour portefeuilles virtuels : transactions, multi-devises, commissions, exports et sécurité financière. | `PHP` `Laravel` |
 
 ---
 
@@ -83,26 +85,14 @@ DevOps        Docker · CI/CD · scripts · automatisation
 
 ## Mes principes de build
 
-```
+```txt
 ✦ Comprendre le problème avant d'ajouter une feature
 ✦ Séparer clairement les responsabilités
 ✦ Automatiser ce qui se répète
 ✦ Sécuriser les zones sensibles dès le départ
-✦ Documenter les décisions importantes (pas juste le code)
+✦ Documenter les décisions importantes, pas seulement le code
 ✦ Garder une architecture lisible même quand le projet évolue
 ```
-
----
-
-## Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TALLHAMADOU&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TALLHAMADOU&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
 
 ---
 
@@ -115,6 +105,18 @@ Tu sais ce qui t'intéresse ? Commence par là :
 - **Fintech Laravel** → [`Fundry`](https://github.com/TALLHAMADOU/Fundry)
 - **Productivité Java** → [`spring-boot-cli`](https://github.com/TALLHAMADOU/spring-boot-cli)
 - **Framework Rust** → [`Afrivel`](https://github.com/TALLHAMADOU/Afrivel)
+
+---
+
+## Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TALLHAMADOU&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TALLHAMADOU&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
 
 ---
 
@@ -138,6 +140,6 @@ Des outils qui ne se contentent pas d'exister sur GitHub.
 
 ---
 
-*Ouagadougou, Burkina Faso 🇧🇫 — disponible pour des projets sérieux*
+*Ouagadougou, Burkina Faso 🇧🇫 disponible pour des projets sérieux*
 
 </div>
