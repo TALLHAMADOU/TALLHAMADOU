@@ -11,7 +11,7 @@
 
 # Tall Hamadou
 
-**Ingénieur backend · Builder d'outils · Ouagadougou 🇧🇫
+*Ingénieur backend · Builder d'outils · Ouagadougou 🇧🇫*
 
 *Je construis des systèmes qui restent lisibles quand le projet grandit.*
 
