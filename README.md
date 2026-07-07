@@ -25,11 +25,29 @@
 
 ## Ce qui me motive
 
-Je ne vise pas seulement le code qui "fonctionne". Je vise le code qui donne envie de continuer à construire dessus.
+Je ne vise pas seulement du code qui « fonctionne ». Je vise du code qui donne envie de continuer à construire dessus.
 
-Mon terrain : **backend**, **CLI tooling**, **sécurité**, **IA appliquée aux devs**, et architectures qui tiennent la route à long terme. Pas de magie noire, juste des systèmes dont on comprend pourquoi ils sont faits comme ça.
+Mon terrain : **backend**, **CLI tooling**, **sécurité**, **IA appliquée aux devs**, et des architectures qui tiennent la route sur la durée. Pas de magie noire, juste des systèmes dont on comprend pourquoi ils sont faits comme ça.
 
-Ce que j'aime construire : des outils utiles, documentés, automatisables, et assez clairs pour qu'une autre personne puisse les reprendre sans repartir de zéro.
+J'aime construire des outils utiles, documentés, automatisables, et assez clairs pour qu'une autre personne puisse les reprendre sans repartir de zéro.
+
+---
+
+## $ whoami
+
+```bash
+tall@ouaga:~$ whoami
+Tall Hamadou — Backend Engineer
+
+tall@ouaga:~$ cat focus.txt
+> Backend & API design
+> CLI tooling
+> Sécurité / DevSecOps
+> IA appliquée aux workflows développeurs
+
+tall@ouaga:~$ echo $STATUS
+building
+```
 
 ---
 
@@ -46,9 +64,9 @@ Ce que j'aime construire : des outils utiles, documentés, automatisables, et as
 
 | Projet | Description | Stack |
 |---|---|---|
-| [**spring-boot-cli**](https://github.com/TALLHAMADOU/spring-boot-cli) | Génère des projets Spring Boot complets en secondes : entités, services, controllers, DTOs, tests. | `Go` |
-| [**goleaks**](https://github.com/TALLHAMADOU/goleaks) | Scanner de secrets dans le code avec export JSON/SARIF et mode diff-only, pensé pour les pipelines CI. | `Go` `DevSecOps` |
-| [**Afrivel**](https://github.com/TALLHAMADOU/Afrivel) | Expérimentation d'un framework web Rust inspiré de Laravel : architecture modulaire, génération de code, Clean Architecture. | `Rust` |
+| [**spring-boot-cli**](https://github.com/TALLHAMADOU/spring-boot-cli) | Génère des projets Spring Boot complets en quelques secondes : entités, services, controllers, DTOs, tests. | `Go` |
+| [**goleaks**](https://github.com/TALLHAMADOU/goleaks) | Scanner de secrets dans le code, avec export JSON/SARIF et mode diff-only, pensé pour les pipelines CI. | `Go` `DevSecOps` |
+| [**Afrivel**](https://github.com/TALLHAMADOU/Afrivel) | Framework web Rust expérimental inspiré de Laravel : architecture modulaire, génération de code, Clean Architecture. | `Rust` |
 
 ### 💰 Finance & Laravel
 
@@ -86,7 +104,7 @@ DevOps        Docker · CI/CD · scripts · automatisation
 ## Mes principes de build
 
 ```txt
-✦ Comprendre le problème avant d'ajouter une feature
+✦ Comprendre le problème avant d'ajouter une fonctionnalité
 ✦ Séparer clairement les responsabilités
 ✦ Automatiser ce qui se répète
 ✦ Sécuriser les zones sensibles dès le départ
@@ -97,8 +115,6 @@ DevOps        Docker · CI/CD · scripts · automatisation
 ---
 
 ## Explorer par angle
-
-Tu sais ce qui t'intéresse ? Commence par là :
 
 - **Intégration IA** → [`mcp-gateway`](https://github.com/TALLHAMADOU/mcp-gateway)
 - **Sécurité & DevSecOps** → [`goleaks`](https://github.com/TALLHAMADOU/goleaks)
@@ -120,15 +136,16 @@ Tu sais ce qui t'intéresse ? Commence par là :
 
 ---
 
-## Ce que je veux construire
+## Vision
 
-Des outils qui ne se contentent pas d'exister sur GitHub.
-
-> Des outils qui aident les devs à livrer plus vite.  
-> Des backends plus fiables.  
-> Des workflows sécurisés.  
-> De l'IA qui répond à de vrais besoins techniques.  
-> Des produits open source ou SaaS qui durent.
+```txt
+tall@ouaga:~$ cat vision.txt
+Des outils qui aident les devs à livrer plus vite.
+Des backends plus fiables.
+Des workflows sécurisés.
+De l'IA qui répond à de vrais besoins techniques.
+Des produits — open source ou SaaS — qui durent.
+```
 
 ---
 
@@ -140,6 +157,6 @@ Des outils qui ne se contentent pas d'exister sur GitHub.
 
 ---
 
-*Ouagadougou, Burkina Faso 🇧🇫 disponible pour des projets sérieux*
+*Ouagadougou, Burkina Faso 🇧🇫*
 
 </div>
